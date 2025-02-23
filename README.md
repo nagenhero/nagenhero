@@ -16,7 +16,7 @@ WordPress
 # 💻 Tech Stack:
 I’m currently diving into the world of Full Stack Development, focusing on the powerful MERN stack (MongoDB, Express.js, React, Node.js). My goal is to become proficient in building dynamic and scalable web applications, from the back-end to the front-end.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,angular,php,js,outlook,adobe photoshop)](https://skillicons.dev)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
