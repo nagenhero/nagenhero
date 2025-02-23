@@ -1,8 +1,13 @@
 # 💫 About Me:
 Master of Information technology in software engineering graduated from Latrobe University of Melbourne with project experience in PHP/react/redux/MySQ/Java, C# software development as well as Oracle, SQL and C++ experience.
 
-A quick learner who can absorb new ideas and can communicate clearly and effectively. Currently looking for a opportunity to join a dynamic, ambitious, growing company and forge a career as a first class developer/software engineer/software programmer.
+A quick learner who can absorb new ideas and can communicate clearly and effectively. My main focus these days is building and learning and creating websites using different modern technologies such as React Framework.I also recently took bootcamp at Sydney located at Rockdale at Dented code Academy where iam still learning to build a web app with the API using Node & React. Here are a few technologies I've been learning with recently:
 
+JavaScript (ES6+)
+React
+Node.js
+TypeScript
+WordPress
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
