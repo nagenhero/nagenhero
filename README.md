@@ -1,5 +1,7 @@
 # 💫 About Me:
-iam mern software developer<br>
+Master of Information technology in software engineering graduated from Latrobe University of Melbourne with project experience in PHP/react/redux/MySQ/Java, C# software development as well as Oracle, SQL and C++ experience.
+
+A quick learner who can absorb new ideas and can communicate clearly and effectively. Currently looking for a opportunity to join a dynamic, ambitious, growing company and forge a career as a first class developer/software engineer/software programmer.
 
 
 # 💻 Tech Stack:
