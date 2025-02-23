@@ -4,9 +4,13 @@ Master of Information technology in software engineering graduated from Latrobe 
 A quick learner who can absorb new ideas and can communicate clearly and effectively. My main focus these days is building and learning and creating websites using different modern technologies such as React Framework. Here are a few technologies I've been learning with recently:
 
 JavaScript (ES6+)
+
 React
+
 Node.js
+
 TypeScript
+
 WordPress
 
 # 💻 Tech Stack:
