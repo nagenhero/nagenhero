@@ -14,7 +14,7 @@ TypeScript
 WordPress
 
 # 💻 Tech Stack:
-
+I’m currently diving into the world of Full Stack Development, focusing on the powerful MERN stack (MongoDB, Express.js, React, Node.js). My goal is to become proficient in building dynamic and scalable web applications, from the back-end to the front-end.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,angular)](https://skillicons.dev)
 
